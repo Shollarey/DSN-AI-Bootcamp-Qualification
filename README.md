@@ -1,1 +1,2 @@
 # DSN-AI-Bootcamp-Qualification
+Wazobia Real Estate Limited, a leading real estate company in Nigeria, seeks your expertise to tackle one of its crucial challenges. They are determined to provide accurate and competitive pricing for houses, but accurately predicting house prices in the current market has been a hurdle they aim to overcome. Should you accept it, your mission is to develop a powerful and accurate predictive model that can estimate house prices in Nigeria.
